@@ -2,6 +2,8 @@
 
 变量设置参考https://github.com/dsadsadsss/x-docker.git
 
+没有哪吒，不用设置了，开了哪吒就卡住，不知道是不是平台封杀哪吒
+
 选择新建docker，参考下图
 
  ![image](https://github.com/dsadsadsss/codesandbox/blob/main/sd.PNG)
