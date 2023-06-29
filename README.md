@@ -4,6 +4,13 @@
 
 没有哪吒，不用设置了，开了哪吒就卡住，不知道是不是平台封杀哪吒
 
+新增：
+
+BAOHUO_URL: 可以输入容器保活网址实现自保活，可选，需要保护的容器可填
+
+SPACE_HOST：容器网址，可选，hug和code不用填，其他容器可填
+
+
 选择新建docker，参考下图
 
  ![image](https://github.com/dsadsadsss/codesandbox/blob/main/sd.PNG)
