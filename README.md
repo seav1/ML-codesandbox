@@ -13,5 +13,5 @@ PW 可能8ge8  or  88888888  or 888888
 选择新建docker，参考下图
 
  ![image](https://github.com/seav1/ML-codesandbox/blob/main/sd.PNG)
- ![image](https://github.com/seav1ML-/codesandbox/blob/main/sd2.PNG)
+ ![image](https://github.com/seav1/ML-codesandbox/blob/main/sd2.PNG)
  ![image](https://github.com/seav1/ML-codesandbox/blob/main/sd3.PNG)
